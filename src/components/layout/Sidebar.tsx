@@ -64,7 +64,7 @@ export default function Sidebar() {
           <span className="font-display text-sm font-semibold text-silver">Alex · Online</span>
         </div>
         <p className="mt-1.5 text-xs leading-relaxed text-secondary-text">
-          WALL STREET voice agent is live and taking calls. Mon–Sat 9AM–7PM CST.
+          FAST TRACKBOOST voice agent is live and taking calls. Mon–Sat 9AM–7PM CST.
         </p>
         <div className="mt-3 h-1.5 overflow-hidden rounded-full bg-black/40">
           <div className="pulse-glow h-full w-2/3 rounded-full bg-gradient-to-r from-[var(--accent-2)] to-[var(--accent-3)]" />
@@ -152,7 +152,7 @@ export function MobileDrawer({
           })}
           <div className="mt-4 border-t border-edge2 pt-4 text-xs text-secondary-text">
             <div className="flex items-center gap-2 text-silver">
-              <FileText size={14} /> WALLSTREET Group · Funding &amp; Credit
+              <FileText size={14} /> FAST TRACK BOOST · Funding &amp; Credit
             </div>
           </div>
         </nav>

@@ -328,7 +328,7 @@ export default function Dashboard() {
         {[
           { icon: <Radio size={16} />, c: 'text-[#3ddc84]', t: 'Agent Online', d: 'Alex is taking calls now · Mon–Sat 9AM–7PM CST' },
           { icon: <PhoneCall size={16} />, c: 'text-silver', t: 'Transfer Line', d: 'NO ESCALATION SET ' },
-          { icon: <DollarSign size={16} />, c: 'text-silver', t: 'Consultations', d: 'WALL-STREET' },
+          { icon: <DollarSign size={16} />, c: 'text-silver', t: 'Consultations', d: 'FAST TRACK BOOST' },
         ].map((k) => (
           <motion.div key={k.t} variants={fadeUp} className="card lift-card p-4">
             <div className={`flex items-center gap-2 ${k.c}`}>{k.icon}<span className="text-sm font-bold">{k.t}</span></div>
